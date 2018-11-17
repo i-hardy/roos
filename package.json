@@ -1,0 +1,20 @@
+{
+  "name": "roos",
+  "version": "1.0.0",
+  "description": "An npm package to help you name your npm packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "cli"
+  ],
+  "bin": {
+    "roos": "./index.js"
+  },
+  "author": "Imogen Hardy",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.3.0"
+  }
+}
