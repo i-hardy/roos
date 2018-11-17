@@ -15,6 +15,7 @@
   "author": "Imogen Hardy",
   "license": "MIT",
   "dependencies": {
+    "chalk": "^2.4.1",
     "node-fetch": "^2.3.0"
   }
 }
