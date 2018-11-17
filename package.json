@@ -7,7 +7,10 @@
     "test": "test"
   },
   "keywords": [
-    "cli"
+    "cli",
+    "naming things",
+    "thesaurus",
+    "utility"
   ],
   "bin": {
     "roos": "./index.js"
