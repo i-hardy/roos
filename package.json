@@ -1,6 +1,6 @@
 {
   "name": "roos",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "An npm package to help you name your npm packages",
   "main": "index.js",
   "scripts": {
