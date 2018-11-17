@@ -2,6 +2,12 @@
   "name": "roos",
   "version": "0.1.0",
   "description": "An npm package to help you name your npm packages",
+  "repository": {
+    "url": "https://github.com/i-hardy/roos"
+  },
+  "bugs": {
+    "url": "https://github.com/i-hardy/roos/issues"
+  },
   "main": "index.js",
   "scripts": {
     "test": "test"
