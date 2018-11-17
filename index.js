@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const fetch = require('node-fetch');
 const chalk = require('chalk');
 const args = process.argv.slice(2);
